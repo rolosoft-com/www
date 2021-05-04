@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+# theme settings
+theme: "lone-wolf-theme"
+remote_theme : "manid2/lone-wolf-theme"
+
+# site settings
+title: "Rolosoft software services"
+description: "Rolosoft software company pioneering added value data through email validation"
+url: https://rolosoft.com
+logo: assets/images/logo.png
+
+# Outputting
+permalink: /:categories/:title/
