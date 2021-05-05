@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+![Rolosoft](/assets/images/logo.png)
 
-You can use the [editor on GitHub](https://github.com/rolosoft-com/www/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Rolosoft software company pioneering added value data through email validation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="assets/images/logo_ev.png" width="200">
 
-### Markdown
+eVerify currently serves large enterprise customers with dedicated email validation services. Originally established in 2011 eVerify grew rapidly from technology pioneered by Rolosoft from 2000.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="assets/images/logo_eh.png" width="300">
 
-```markdown
-Syntax highlighted code block
+Email Hippo began trading in 2015 as an online email validation service provider. Email Hippo now provides services to thousands of small, medium and large organisations all over the world.
 
-# Header 1
-## Header 2
-### Header 3
+As one of the leading authorities on email validation Email Hippo is striving for a cleaner internet where email addresses belong to real people.
 
-- Bulleted
-- List
+<button name="button" onclick="https://emailhippo.com/">Go to Email Hippo</button>
 
-1. Numbered
-2. List
+## COMMUNITY CODE AND UTILITIES
+Through Rolosoft we release useful free utilities to solve problems we encounter during our product development.
 
-**Bold** and _Italic_ and `Code` text
+[Here's our link for Nuget](https://www.nuget.org/packages?q=rolosoft)
 
-[Link](url) and ![Image](src)
-```
+## Links
+[hello@rolosoft.com](mailto:hello@rolosoft.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Privacy policy](privacy-policy.md)
 
-### Jekyll Themes
+[Cookie policy](cookie-policy.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rolosoft-com/www/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Website terms of use](website-tou.md)
 
-### Support or Contact
+Rolosoft Limited. Registered office: Lowin House, Tregolls Road, Truro, United Kingdom, TR1 2NA.
+Registered in England. Registration number: 06617943
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+&#169;2021 Rolosoft Limited, rolosoft.com
