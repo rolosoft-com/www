@@ -1,4 +1,4 @@
-![Rolosoft](/assets/images/logo.png)
+![Image](/assets/images/header_image.png)
 
 Rolosoft software company pioneering added value data through email validation
 
