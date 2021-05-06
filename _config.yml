@@ -17,6 +17,7 @@ email: "hello@rolosoft.com"
 # ite favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   250: '/assets/images/rolosoft-250x250.png'
+  25: '/assets/images/rolosoft-25x25.png'
 
 
 # Outputting
