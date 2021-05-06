@@ -1,6 +1,6 @@
 ![Image](/assets/images/header_image.png)
 
-Rolosoft software company pioneering added value data through email validation
+ROLOSOFT IS THE PRIVATELY OWNED PARENT COMPANY OF EVERIFY AND EMAIL HIPPO.
 
 <img src="assets/images/logo_ev.png" width="200">
 
