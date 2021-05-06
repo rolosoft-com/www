@@ -14,8 +14,6 @@ As one of the leading authorities on email validation Email Hippo is striving fo
 
 <button name="button" onclick="https://emailhippo.com/">Go to Email Hippo</button>
 
-{% include button.html text="Go to Email Hippo" link="https://emailhippo.com/" color:#7FBC03 %}
-
 ## COMMUNITY CODE AND UTILITIES
 Through Rolosoft we release useful free utilities to solve problems we encounter during our product development.
 
