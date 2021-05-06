@@ -13,6 +13,7 @@ Email Hippo began trading in 2015 as an online email validation service provider
 As one of the leading authorities on email validation Email Hippo is striving for a cleaner internet where email addresses belong to real people.
 
 <button name="button" onclick="https://emailhippo.com/">Go to Email Hippo</button>
+{% include button.html text="Go to Email Hippo" link="https://emailhippo.com/" color:#7FBC03 %}
 
 ## COMMUNITY CODE AND UTILITIES
 Through Rolosoft we release useful free utilities to solve problems we encounter during our product development.
@@ -20,7 +21,9 @@ Through Rolosoft we release useful free utilities to solve problems we encounter
 [Here's our link for Nuget](https://www.nuget.org/packages?q=rolosoft)
 
 ## Legals
-[Privacy policy](privacy-policy.md)   [Cookie policy](cookie-policy.md)   [Website terms of use](website-tou.md)
+[Privacy policy](privacy-policy.md)
+[Cookie policy](cookie-policy.md)
+[Website terms of use](website-tou.md)
 
 ### If you would like to contact us please [email us](mailto:hello@rolosoft.com).
 
