@@ -6,7 +6,7 @@ If you have any questions about our policies, please contact us.
 ## 1. Introduction
 1.1 This website uses cookies and  is owned and operated by Rolosoft Limited, a UK corporation.
 
-1.2 You can contact Rolosoft in relation to the use of cookies by: emailing DPO@emailhippo.com; or contacting the Data Protection Officer at the contact numbers or address provided at emailhippo.com.
+1.2 You can contact Rolosoft in relation to the use of cookies by emailing our [Data Protection Officer](mailto:dpo@rolosoft.com) or contacting the Data Protection Officer at the contact numbers or address provided at [emailhippo.com](https://emailhippo.com).
 
 1.3 We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
