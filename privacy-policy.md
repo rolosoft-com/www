@@ -1,4 +1,4 @@
-## Privacy policy
+![Image](/assets/images/PrivacyPolicy.png)
 
 We take your privacy seriously.
 
