@@ -4,7 +4,7 @@ We take your privacy seriously.
 
 This policy defines how Rolosoft Limited collects, protects and uses any personal information you provide us.
 
-If you have any questions please contact our Data Protection Officer at dpo@rolosoft.com.
+If you have any questions please contact our [Data Protection Officer](mailto:dpo@rolosoft.com).
 
 We may update this policy from time to time so you should ensure you regularly review this policy to ensure you are happy with any changes.
 
@@ -60,7 +60,7 @@ Under the General Data Protection Regulations you have the following rights in r
 * To object to the way we are processing your data
 * To prevent automated decision making and profiling in relation to your data
  
-Please contact us at dpo@rolosoft.com to submit any requests or ask any questions about your data.
+Please contact our [Data Protection Officer](mailto:dpo@rolosoft.com) to submit any requests or ask any questions about your data.
 
 ### Links
 [Home](index.md)
