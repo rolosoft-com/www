@@ -1,5 +1,3 @@
-# PRIVACY POLICY
-
 We take your privacy seriously.
 
 This policy defines how Rolosoft Limited collects, protects and uses any personal information you provide us.
