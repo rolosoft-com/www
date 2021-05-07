@@ -1,5 +1,3 @@
-![Rolosoft](/assets/images/logo.png)
-
 # WEBSITE TERMS OF USE
 
 You are visiting www.rolosoft.com. 
@@ -87,8 +85,8 @@ Where our site contains links to other sites and resources provided by third par
 
 We may revise these terms of use at any time by amending this page. You are expected to check this page from time to time to take notice of any changes we made, as they are binding on you.
 
-## Links
-[hello@rolosoft.com](mailto:hello@rolosoft.com)
+### Links
+[Home](index.md)
 
 [Privacy policy](privacy-policy.md)
 
@@ -99,7 +97,4 @@ We may revise these terms of use at any time by amending this page. You are expe
 
 Rolosoft Limited. Registered office: Lowin House, Tregolls Road, Truro, United Kingdom, TR1 2NA.
 Registered in England. Registration number: 06617943
-
-
-&#169;2021 Rolosoft Limited, rolosoft.com
 
