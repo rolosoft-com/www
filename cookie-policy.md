@@ -1,5 +1,3 @@
-# COOKIE POLICY
-
 We take data seriously.
 If you have any questions about our policies, please contact us. 
 
