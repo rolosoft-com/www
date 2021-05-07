@@ -12,7 +12,7 @@ Email Hippo began trading in 2015 as an online email validation service provider
 
 As one of the leading authorities on email validation Email Hippo is striving for a cleaner internet where email addresses belong to real people.
 
-<button name="button" onclick="https://www.emailhippo.com/">Go to Email Hippo</button>
+[Go to Email Hippo](https://www.emailhippo.com)
 
 ## COMMUNITY CODE AND UTILITIES
 Through Rolosoft we release useful free utilities to solve problems we encounter during our product development.
