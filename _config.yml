@@ -26,3 +26,17 @@ permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
+# Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Privacy policy
+  url: /privacy-policy/
+- title: Cookie Policy
+  url: /cookie-policy/
+- title: Website terms of use
+  url: /website-tou/
+
+navigation_footer:
+- title: 
+  url: https://darn.es
