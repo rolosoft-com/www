@@ -29,13 +29,13 @@ timezone: Europe/London # Timezone for blog posts and alike
 # Site navigation
 navigation_header:
 - title: Home
-  url: /index.md
+  url: /
 - title: Privacy policy
-  url: /privacy-policy.md
+  url: /privacy-policy.html
 - title: Cookie Policy
-  url: /cookie-policy.md
+  url: /cookie-policy.html
 - title: Website terms of use
-  url: /website-tou.md
+  url: /website-tou.html
 
 navigation_footer:
 - title: 
