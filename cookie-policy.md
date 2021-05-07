@@ -70,7 +70,5 @@ in Chrome (version 65), you can delete all cookies by accessing the "Customise a
 ## 9. Cookie Preferences
 9.1 There are no facilities to manage your cookie preferences on our website.
 
-
-
 Rolosoft Limited. Registered office: Lowin House, Tregolls Road, Truro, United Kingdom, TR1 2NA.
 Registered in England. Registration number: 06617943
