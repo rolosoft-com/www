@@ -1,5 +1,3 @@
-# WEBSITE TERMS OF USE
-
 You are visiting www.rolosoft.com. 
 
 Please read the terms of this agreement carefully before you start to use the site as your use indicates that you accept these terms and that you agree to abide by them. 
