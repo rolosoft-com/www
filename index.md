@@ -19,14 +19,7 @@ Through Rolosoft we release useful free utilities to solve problems we encounter
 
 [Here's our link for Nuget](https://www.nuget.org/packages?q=rolosoft)
 
-## Legals
-[Privacy policy](privacy-policy.md)
-
-[Cookie policy](cookie-policy.md)
-
-[Website terms of use](website-tou.md)
-
-### If you would like to contact us please [email us](mailto:hello@rolosoft.com).
+#### If you would like to contact us please [email us](mailto:hello@rolosoft.com).
 
 Rolosoft Limited. Registered office: Lowin House, Tregolls Road, Truro, United Kingdom, TR1 2NA.
 Registered in England. Registration number: 06617943
