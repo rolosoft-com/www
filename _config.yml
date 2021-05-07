@@ -17,13 +17,13 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 
 # Outputting
-permalink: /:categories/:title/
+#permalink: /:categories/:title/
 
 # Jekyll settings
 sass:
   style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+# permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+# excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
 # Site navigation
