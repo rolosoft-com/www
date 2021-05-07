@@ -1,5 +1,3 @@
-![Rolosoft](/assets/images/logo.png)
-
 # PRIVACY POLICY
 
 We take your privacy seriously.
@@ -64,8 +62,8 @@ Under the General Data Protection Regulations you have the following rights in r
  
 Please contact us at dpo@rolosoft.com to submit any requests or ask any questions about your data.
 
-## Links
-[hello@rolosoft.com](mailto:hello@rolosoft.com)
+### Links
+[Home](index.md)
 
 [Privacy policy](privacy-policy.md)
 
@@ -76,7 +74,3 @@ Please contact us at dpo@rolosoft.com to submit any requests or ask any question
 
 Rolosoft Limited. Registered office: Lowin House, Tregolls Road, Truro, United Kingdom, TR1 2NA.
 Registered in England. Registration number: 06617943
-
-
-&#169;2021 Rolosoft Limited, rolosoft.com
-
