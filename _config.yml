@@ -1,6 +1,6 @@
 # theme settings
-#remote_theme: daviddarnes/alembic@main
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: daviddarnes/alembic@main
+#remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # site settings
 encoding: utf-8 # Make sure the encoding is right
