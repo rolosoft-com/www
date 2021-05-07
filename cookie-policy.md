@@ -1,5 +1,3 @@
-![Rolosoft](/assets/images/logo.png)
-
 # COOKIE POLICY
 
 We take data seriously.
@@ -74,8 +72,8 @@ in Chrome (version 65), you can delete all cookies by accessing the "Customise a
 
 
 
-## Links
-[hello@rolosoft.com](mailto:hello@rolosoft.com)
+### Links
+[Home](index.md)
 
 [Privacy policy](privacy-policy.md)
 
@@ -86,7 +84,3 @@ in Chrome (version 65), you can delete all cookies by accessing the "Customise a
 
 Rolosoft Limited. Registered office: Lowin House, Tregolls Road, Truro, United Kingdom, TR1 2NA.
 Registered in England. Registration number: 06617943
-
-
-&#169;2021 Rolosoft Limited, rolosoft.com
-
