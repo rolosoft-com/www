@@ -1,5 +1,6 @@
 # theme settings
-remote_theme: daviddarnes/alembic@main
+#remote_theme: daviddarnes/alembic@main
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # site settings
 encoding: utf-8 # Make sure the encoding is right
@@ -39,4 +40,4 @@ navigation_header:
 
 navigation_footer:
 - title: 
-  url: https://darn.es
+  url: https://www.rolosoft.com
