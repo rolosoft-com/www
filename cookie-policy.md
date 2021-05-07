@@ -1,4 +1,4 @@
-### Cookie policy
+![Image](/assets/images/CookiePolicy.png)
 
 We take data seriously.
 If you have any questions about our policies, please contact us. 
