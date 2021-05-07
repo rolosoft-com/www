@@ -2,7 +2,7 @@
 
 ROLOSOFT IS THE PRIVATELY OWNED PARENT COMPANY OF EMAIL HIPPO AND EVERIFY.
 
-<img src="assets/images/logo_eh.png" width="300">
+<img src="assets/images/logo_eh.png" width="300"> [Go to Email Hippo](https://www.emailhippo.com)
 
 Email Hippo began trading in 2015 as an online email validation service provider. Email Hippo now provides services to thousands of small, medium and large organisations all over the world.
 
@@ -11,8 +11,6 @@ As one of the leading authorities on email validation Email Hippo is striving fo
 <img src="assets/images/logo_ev.png" width="200">
 
 eVerify currently serves large enterprise customers with dedicated email validation services. Originally established in 2011 eVerify grew rapidly from technology pioneered by Rolosoft from 2000.  
-
-[Go to Email Hippo](https://www.emailhippo.com)
 
 ## COMMUNITY CODE AND UTILITIES
 Through Rolosoft we release useful free utilities to solve problems we encounter during our product development.
