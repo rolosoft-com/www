@@ -1,4 +1,4 @@
-# Cookie policy document
+# Cookie policy
 
 We take data seriously.
 If you have any questions about our policies, please contact us. 
@@ -70,15 +70,6 @@ in Chrome (version 65), you can delete all cookies by accessing the "Customise a
 ## 9. Cookie Preferences
 9.1 There are no facilities to manage your cookie preferences on our website.
 
-
-### Links
-[Home](index.md)
-
-[Privacy policy](privacy-policy.md)
-
-[Cookie policy](cookie-policy.md)
-
-[Website terms of use](website-tou.md)
 
 
 Rolosoft Limited. Registered office: Lowin House, Tregolls Road, Truro, United Kingdom, TR1 2NA.
