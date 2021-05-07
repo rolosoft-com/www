@@ -1,4 +1,4 @@
-## Website terms of use
+![Image](/assets/images/WebsiteTOU.png)
 
 You are visiting www.rolosoft.com. 
 
