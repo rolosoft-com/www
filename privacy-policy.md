@@ -30,7 +30,7 @@ We use the information we store for the following purposes:
 
 We may also process your personal data without your knowledge or consent, in accordance with this notice, where we are legally required or permitted to do so.
 
-To unsubscribe from our mailing list at any time, please use the unsubscribe feature on one of our emails email us at dpo@rolosoft.com
+To unsubscribe from our mailing list at any time, please use the unsubscribe feature on one of our emails or contact our [Data Protection Officer](mailto:dpo@rolosoft.com).
 
 ## Where we store your data
 All of your information is stored on secure servers within EU data centers by Agile CRM or Google. Both these organisations are compliant with the General Data Protection Regulations (GDPR) defined by the EU.
