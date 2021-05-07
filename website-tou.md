@@ -1,4 +1,4 @@
-# Website terms of use
+## Website terms of use
 
 You are visiting www.rolosoft.com. 
 
@@ -9,7 +9,7 @@ If you do not agree with all the terms and conditions, please refrain from using
 Rolosoft Limited (Rolosoft, our, we), a UK corporation, owns and operates www.rolosoft.com.
 
 
-## 1. Using our website
+### 1. Using our website
 
 1.1. Access to this website is permitted on a temporary basis, and Rolosoft reserves the right to withdraw or amend the service provided on our site without notice. Rolosoft will not be liable if for any reason our site, in its entirety or in part is unavailable at any time or for any period or if it is closed indefinitely.
 
@@ -29,7 +29,7 @@ Rolosoft Limited (Rolosoft, our, we), a UK corporation, owns and operates www.ro
 
 1.6. You are responsible for making all arrangements necessary for you to have access to our site. You are also responsible for ensuring that all persons who access our site through your internet connection are aware of these terms, and that they comply with them.
 
-## 2. Our intellectual property
+### 2. Our intellectual property
 
 2.1. Rolosoft is the owner and licensee of all intellectual property rights in our site, and in the material published on it.  The works are protected by copyright laws and treaties around the world.  All such rights are reserved.
 
@@ -43,7 +43,7 @@ Rolosoft Limited (Rolosoft, our, we), a UK corporation, owns and operates www.ro
 
 2.6. Any breach of these terms will result in your right to use our site being ceased immediately and you must return or destroy any copies of the materials you have made and provide evidence of this to Rolosoft.
 
-## 3. Our liability
+### 3. Our liability
 
 3.1. The content, materials and commentary displayed on Rolosoft’s website is provided without any guarantees, conditions or warranties as to its accuracy. 
 
@@ -59,11 +59,11 @@ Rolosoft Limited (Rolosoft, our, we), a UK corporation, owns and operates www.ro
 
 3.3. Rolosoft will not be liable for any loss or damage caused by a distributed denial-of-service attack, viruses or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of our site or to your downloading of any material posted on it, or on any website linked to it.
 
-## 4. Your Confidentiality and Privacy
+### 4. Your Confidentiality and Privacy
 
 Rolosoft’s privacy policy which is available at rolosoft.com is incorporated into this agreement. We process information about you in accordance with our privacy policy. By using our site, you consent to such processing and you warrant that all data provided by you is accurate.
 
-## 5. Linking to our site
+### 5. Linking to our site
 
 5.1. You may link to our site, provided you do so in a way that is fair and legal and does not: damage our reputation or take advantage of it; or suggest any form of association, approval or endorsement by Rolosoft where none exists.
 
@@ -71,17 +71,17 @@ Rolosoft’s privacy policy which is available at rolosoft.com is incorporated i
 
 5.3. We reserve the right to withdraw linking permission without notice. 
 
-## 6. Links from our site
+### 6. Links from our site
 
 Where our site contains links to other sites and resources provided by third parties, these links are provided for your information only.  We have no control over the contents of those sites or resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them.
 
-## 7. Governing Law and Jurisdiction
+### 7. Governing Law and Jurisdiction
 
 7.1. The English courts will have exclusive jurisdiction over any claim arising from, or related to, a visit to our site although we retain the right to bring proceedings against you for breach of these conditions in your country of residence or any other relevant country.
 
 7.2. These terms of use and any dispute or claim arising out of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England and Wales.
 
-## 8. Variations
+### 8. Variations
 
 We may revise these terms of use at any time by amending this page. You are expected to check this page from time to time to take notice of any changes we made, as they are binding on you.
 
