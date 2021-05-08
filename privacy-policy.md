@@ -1,4 +1,10 @@
-![Image](/assets/images/PrivacyPolicy.png)
+---
+title: Privacy Policy
+feature_text: |
+  ## Privacy Policy
+excerpt: Rolosoft privacy policy
+permalink: /privacy-policy
+---
 
 We take your privacy seriously.
 
@@ -56,11 +62,8 @@ Under the General Data Protection Regulations you have the following rights in r
 * To request that we correct any inaccurate data we may be storing
 * To make a request to be forgotten and  request deletion of all the data we store related to you
 * To ask us to not process your personal data for direct marketing and promotional purposes
-* To obtain and reuse your data for your own personal uses. 
+* To obtain and reuse your data for your own personal uses.
 * To object to the way we are processing your data
 * To prevent automated decision making and profiling in relation to your data
- 
-Please contact our [Data Protection Officer](mailto:dpo@rolosoft.com) to submit any requests or ask any questions about your data.
 
-Rolosoft Limited. Registered office: Lowin House, Tregolls Road, Truro, United Kingdom, TR1 2NA.
-Registered in England. Registration number: 06617943
+Please contact our [Data Protection Officer](mailto:dpo@rolosoft.com) to submit any requests or ask any questions about your data.

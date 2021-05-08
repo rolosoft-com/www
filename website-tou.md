@@ -1,8 +1,14 @@
-![Image](/assets/images/WebsiteTOU.png)
+---
+title: Website terms of use
+feature_text: |
+  ## Website terms of use
+excerpt: Rolosoft website terms or use.
+permalink: /website-terms-of-use
+---
 
-You are visiting www.rolosoft.com. 
+You are visiting www.rolosoft.com.
 
-Please read the terms of this agreement carefully before you start to use the site as your use indicates that you accept these terms and that you agree to abide by them. 
+Please read the terms of this agreement carefully before you start to use the site as your use indicates that you accept these terms and that you agree to abide by them.
 
 If you do not agree with all the terms and conditions, please refrain from using our site.
 
@@ -45,7 +51,7 @@ Rolosoft Limited (Rolosoft, our, we), a UK corporation, owns and operates www.ro
 
 ### 3. Our liability
 
-3.1. The content, materials and commentary displayed on Rolosoft’s website is provided without any guarantees, conditions or warranties as to its accuracy. 
+3.1. The content, materials and commentary displayed on Rolosoft’s website is provided without any guarantees, conditions or warranties as to its accuracy.
 
 3.2. The content on our website is not intended to amount to advice upon which any reliance should be placed.  Rolosoft disclaims all liability and responsibility arising from any reliance placed on the website’s contents by any visitor, or by anyone receiving information based on our website’s content including:
 * All conditions, warranties and other terms which might otherwise be implied by statute, common law or the law of equity.
@@ -67,9 +73,9 @@ Rolosoft’s privacy policy which is available at rolosoft.com is incorporated i
 
 5.1. You may link to our site, provided you do so in a way that is fair and legal and does not: damage our reputation or take advantage of it; or suggest any form of association, approval or endorsement by Rolosoft where none exists.
 
-5.2. You must not: create a link to rolosoft.com from a website which is not owned by you; or frame rolosoft.com within any other site. 
+5.2. You must not: create a link to rolosoft.com from a website which is not owned by you; or frame rolosoft.com within any other site.
 
-5.3. We reserve the right to withdraw linking permission without notice. 
+5.3. We reserve the right to withdraw linking permission without notice.
 
 ### 6. Links from our site
 
@@ -84,7 +90,3 @@ Where our site contains links to other sites and resources provided by third par
 ### 8. Variations
 
 We may revise these terms of use at any time by amending this page. You are expected to check this page from time to time to take notice of any changes we made, as they are binding on you.
-
-Rolosoft Limited. Registered office: Lowin House, Tregolls Road, Truro, United Kingdom, TR1 2NA.
-Registered in England. Registration number: 06617943
-
