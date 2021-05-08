@@ -92,7 +92,7 @@ lang: en-GB # Set the site language
 title: "Rolosoft Limited, rolosoft.com"
 description: "Rolosoft software company pioneering added value data through email validation"
 url: "https://rolosoft-com.github.io/www"
-logo: assets/images/logo.png
+logo: /assets/images/logo.png
 email: "hello@rolosoft.com"
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
@@ -112,19 +112,19 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   # 180: '/assets/logos/logo@180px.png'
   # 512: '/assets/logos/logo@512px.png'
   # 1024: '/assets/logos/logo@1024px.png'
-  250: 'assets/images/rolosoft-250x250.png'
-  25: 'assets/images/rolosoft-25x25.png'
+  250: '/assets/images/rolosoft-250x250.png'
+  25: '/assets/images/rolosoft-25x25.png'
 
 # 9. Site navigation
 navigation_header:
   - title: Home
     url: /
   - title: Privacy policy
-    url: privacy-policy
+    url: /privacy-policy
   - title: Cookie policy
-    url: cookie-policy
+    url: /cookie-policy
   - title: Website terms of use
-    url: website-terms-of-use
+    url: /website-terms-of-use
 
 navigation_footer:
   - title:
