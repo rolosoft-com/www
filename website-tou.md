@@ -1,12 +1,12 @@
 ---
 title: Website terms of use
 feature_text: |
-  ## Website terms of use
+  Website terms of use
 excerpt: Rolosoft website terms or use.
 permalink: /website-terms-of-use
 ---
 
-You are visiting www.rolosoft.com.
+You are visiting rolosoft.com.
 
 Please read the terms of this agreement carefully before you start to use the site as your use indicates that you accept these terms and that you agree to abide by them.
 

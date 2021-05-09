@@ -1,7 +1,6 @@
 ---
 title: Rolosoft
 feature_text: |
-  ## Rolosoft
   Unlocking the value of your email addresses
 excerpt: Rolosoft software company pioneering added value data through email validation
 ---
@@ -24,4 +23,4 @@ Through Rolosoft we release useful free utilities to solve problems we encounter
 
 [Here's our link for Nuget](https://www.nuget.org/packages?q=rolosoft)
 
-#### If you would like to contact us please [email us](mailto:hello@rolosoft.com).
+##### If you would like to contact us please [email us](mailto:hello@rolosoft.com).

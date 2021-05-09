@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 feature_text: |
-  ## Privacy Policy
+  Privacy Policy
 excerpt: Rolosoft privacy policy
 permalink: /privacy-policy
 ---

@@ -1,7 +1,7 @@
 ---
 title: Cookie Policy
 feature_text: |
-  ## Cookie Policy
+  Cookie Policy
 excerpt: Rolosoft software company pioneering added value data through email validation
 permalink: /cookie-policy
 ---
